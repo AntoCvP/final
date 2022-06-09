@@ -1,5 +1,7 @@
-**Portafolio**
-Ojetivo general: Mostrar y registrar todos mis trabajos y proces creativos. Para tener facil acceso a ellos y poder presentarlos a diferentes empresas o trabajos. 
+#**Portafolio**
+
+
+Objetivo general: Mostrar y registrar todos mis trabajos y proces creativos. Para tener facil acceso a ellos y poder presentarlos a diferentes empresas o trabajos. 
 
 **Usuarios**
 
